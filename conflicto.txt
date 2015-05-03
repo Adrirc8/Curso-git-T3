@@ -1,3 +1,7 @@
 Archivo conflictivo creado para el ejercicio del Tema 3
 
+HEAD
 Conflicto desde la copia local
+
+Conflicto desde la web
+4c6ae65de73be1b46ab6dc7711f74bd036014a62
